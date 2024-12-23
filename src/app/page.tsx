@@ -1,9 +1,7 @@
 // app/page.tsx
 import {
   Avatar,
-  Box,
   Typography,
-  Paper,
   IconButton,
   Stack,
 } from "@mui/material";
