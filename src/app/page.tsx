@@ -14,7 +14,7 @@ export default function HomePage() {
       justifyContent="center"
       spacing={4}
       p={4}
-      minHeight="100vh"
+      minHeight="95vh"
     >
       {/* Profile Section */}
       <Avatar
