@@ -32,7 +32,7 @@ export default function HomePage() {
       {/* Social Media Icons */}
       <Stack direction="row" spacing={2}>
         <IconButton
-          href="https://www.linkedin.com/in/your-linkedin-profile"
+          href="https://www.linkedin.com/in/ashikqmuhammed"
           target="_blank"
           aria-label="LinkedIn"
           color="primary"
@@ -40,7 +40,7 @@ export default function HomePage() {
           <Icon icon="mingcute:linkedin-fill" width={50} height={50} />
         </IconButton>
         <IconButton
-          href="https://github.com/your-github-profile"
+          href="https://github.com/ashikqmuhammed"
           target="_blank"
           aria-label="GitHub"
           color="primary"
@@ -48,7 +48,7 @@ export default function HomePage() {
           <Icon icon="mingcute:github-fill" width={50} height={50} />
         </IconButton>
         <IconButton
-          href="https://twitter.com/your-twitter-profile"
+          href="https://telegram.me/ashikqmuhammed"
           target="_blank"
           aria-label="Telegram"
           color="primary"
